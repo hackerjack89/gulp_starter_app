@@ -1,0 +1,20 @@
+{
+  "name": "gulp_damo",
+  "version": "0.0.0",
+  "description": "test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hackerjack",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "gulp-coffee": "git://github.com/wearefractal/gulp-coffee",
+    "gulp": "~3.9.0",
+    "gulp-sass": "~2.0.4",
+    "gulp-slim": "~0.1.0",
+    "gulp-util": "~3.0.6",
+    "gulp-scss": "~1.2.0",
+    "gulp-connect": "~2.2.0"
+  }
+}
